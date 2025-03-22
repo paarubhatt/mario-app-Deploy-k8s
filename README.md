@@ -108,7 +108,7 @@ Connect the instance to Mobaxtreme or Putty
 
 Now clone this Repo.
 
-git clone https://github.com/Aj7Ay/k8s-mario.git
+git clone {repo link}
 
 change directory
 
